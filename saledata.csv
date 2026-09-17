@@ -1,0 +1,9 @@
+date,Product,Region,Quantity,Price,Discount,Returns,StockLoss
+2026-01-05,Laptop,South,10,50000,0.20,1,5000
+2026-01-12,Mobile,South,20,20000,0.10,2,3000
+2026-02-03,Laptop,North,8,50000,0.25,2,7000
+2026-02-15,Tablet,East,15,15000,0.15,3,4000
+2026-03-02,Mobile,West,25,20000,0.30,4,6000
+2026-03-20,Laptop,South,12,50000,0.05,1,2000
+2026-04-07,Tablet,North,18,15000,0.20,5,8000
+2026-04-18,Mobile,East,22,20000,0.12,2,3500
